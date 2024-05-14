@@ -2,5 +2,5 @@
 Este es el README para la materia de Aprendizaje Automático en la Maestría de Ciencia de Datos
 
 A continuación aparecen los vínculos de las Tareas:
-* [Tarea 1](tarea_1/)
+* [Tarea 1](tarea_1)
 
